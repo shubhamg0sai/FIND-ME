@@ -1,6 +1,8 @@
 g='\033[1;32m'
 p='\033[1;35m'
 clear
+termux-setup-storage
+clear
 echo -e "\033[1;32m"
 echo "    {Ctrl C} exit "
 echo "N[1] whats app group 1"                                                                 
@@ -17,8 +19,6 @@ read -p  "choose-number-> " N
 
 if [ "$N" -eq "1"  ]; then
  cd
- clear
- termux-setup-storage
  clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
@@ -50,8 +50,6 @@ echo "    {Ctrl C} exit "
 elif [ "$N" -eq "2"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
  clear
@@ -80,8 +78,6 @@ echo "    {Ctrl C} exit "
 
 elif [ "$N" -eq "3"  ]; then
  cd
- clear
- termux-setup-storage
  clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
@@ -113,8 +109,6 @@ echo "    {Ctrl C} exit "
 elif [ "$N" -eq "4"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
  clear
@@ -144,8 +138,6 @@ echo "    {Ctrl C} exit "
 
 elif [ "$N" -eq "5"  ]; then
  cd
- clear
- termux-setup-storage
  clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
@@ -177,8 +169,6 @@ echo "    {Ctrl C} exit "
 elif [ "$N" -eq "6"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
  clear
@@ -209,8 +199,6 @@ echo "    {Ctrl C} exit "
 elif [ "$N" -eq "7"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
  clear
@@ -239,8 +227,6 @@ echo "    {Ctrl C} exit "
 
 elif [ "$N" -eq "8"  ]; then
  cd
- clear
- termux-setup-storage
  clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
