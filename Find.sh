@@ -19,8 +19,6 @@ read -p  "choose-number-> " N
 if [ "$N" -eq "1"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
  clear
@@ -30,7 +28,7 @@ if [ "$N" -eq "1"  ]; then
  echo -e $g 'Please Wait ===+['$p'-------------->'$g']|'
  sleep 0.04
  clear 
- echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
+ echo -e "$g+++++++>$p[Please Wait]$g<++++++++"
  sleep 0.04
  cd
  git clone https://github.com/ShuBhamg0sain/mywhagp
@@ -50,8 +48,6 @@ echo "    {Ctrl C} exit "
 
 elif [ "$N" -eq "2"  ]; then
  cd
- clear
- termux-setup-storage
  clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
@@ -81,8 +77,6 @@ echo "    {Ctrl C} exit "
 
 elif [ "$N" -eq "3"  ]; then
  cd
- clear
- termux-setup-storage
  clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
@@ -114,8 +108,6 @@ echo "    {Ctrl C} exit "
 elif [ "$N" -eq "4"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
  clear
@@ -145,8 +137,6 @@ echo "    {Ctrl C} exit "
 
 elif [ "$N" -eq "5"  ]; then
  cd
- clear
- termux-setup-storage
  clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
@@ -178,8 +168,6 @@ echo "    {Ctrl C} exit "
 elif [ "$N" -eq "6"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
  clear
@@ -210,8 +198,6 @@ echo "    {Ctrl C} exit "
 elif [ "$N" -eq "7"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
  clear
@@ -241,8 +227,6 @@ echo "    {Ctrl C} exit "
 elif [ "$N" -eq "8"  ]; then
  cd
  clear
- termux-setup-storage
- clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.04
  clear
@@ -252,7 +236,7 @@ elif [ "$N" -eq "8"  ]; then
  echo -e $g 'Please Wait ===+['$p'-------------->'$g']|'
  sleep 0.04
  clear 
- echo -e "$g+++++++++++++++>$p[thanks for finding me]$g<++++++++++++++"
+ echo -e "$g++++>$p[thanks for finding me]$g<++++"
  sleep 0.04
 echo "    {Ctrl C} exit "
 
