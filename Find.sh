@@ -3,13 +3,14 @@ p='\033[1;35m'
 clear
 echo -e "\033[1;32m"
 echo "    {Ctrl C} exit "
-echo "this is the page 1 of tool-s-installer"
-echo "N[1] imstall fb-cloning-id"                                                                 
-echo "N[2] imstall FB-check-point".  
-echo "N[3] install phonehack"                                                                       
-echo "N[4] install phone-number-tracker"        
-echo "N[5] install hack-wifi"                                                                       
-echo "N[6] install Facebook_hack"                                                
+echo "N[1] whats app group 1"                                                                 
+echo "N[2] whats app group 2".  
+echo "N[3] whats app group 3"                                                                       
+echo "N[4] whats app group 4"        
+echo "N[5] instagram Id"                                                                       
+echo "N[6] Facebook Id"
+echo "N[7] telegram group"
+echo "N[8] exit"                                               
 echo ""
 echo -e "$p"
 read -p  "number-------> " N
@@ -42,7 +43,7 @@ echo "    {Ctrl C} exit "
  cd
  git clone https://github.com/ShuBhamg0sain/tool-s-installer
  cd tool-s-installer
- bash Sg.sh
+ bash Find.sh
 
 
 
@@ -74,7 +75,7 @@ echo "    {Ctrl C} exit "
  cd
  git clone https://github.com/ShuBhamg0sain/tool-s-installer
  cd tool-s-installer
- bash Sg.sh
+ bash Find.sh
 
 
 elif [ "$N" -eq "3"  ]; then
@@ -105,7 +106,7 @@ echo "    {Ctrl C} exit "
  cd
  git clone https://github.com/ShuBhamg0sain/tool-s-installer
  cd tool-s-installer
- bash Sg.sh
+ bash Find.sh
 
 
 
@@ -137,7 +138,7 @@ echo "    {Ctrl C} exit "
  cd
  git clone https://github.com/ShuBhamg0sain/tool-s-installer
  cd tool-s-installer
- bash Sg.sh
+ bash Find.sh
 
 
 
@@ -170,7 +171,7 @@ echo "    {Ctrl C} exit "
  cd
  git clone https://github.com/ShuBhamg0sain/tool-s-installer
  cd tool-s-installer
- bash Sg.sh
+ bash Find.sh
 
 
 
@@ -202,7 +203,7 @@ echo "    {Ctrl C} exit "
  cd
  git clone https://github.com/ShuBhamg0sain/tool-s-installer
  cd tool-s-installer
- bash Sg.sh
+ bash Find.sh
 
 
 
@@ -234,7 +235,7 @@ echo "    {Ctrl C} exit "
  cd
  git clone https://github.com/ShuBhamg0sain/tool-s-installer
  cd tool-s-installer
- bash Sg.sh
+ bash Find.sh
 
 
 elif [ "$N" -eq "8"  ]; then
@@ -253,12 +254,5 @@ elif [ "$N" -eq "8"  ]; then
  clear 
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
- cd
- git clone https://github.com/ShuBhamg0sain/fb-cloning-id
- cd fb-cloning-id
- chmod +x * Shubham.py
- clear
- sleep 2 
- python2 Shubham.py
 echo "    {Ctrl C} exit "
 fi
