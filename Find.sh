@@ -2,7 +2,6 @@ g='\033[1;32m'
 p='\033[1;35m'
 clear
 echo -e "\033[1;32m
-echo "    ShuBhamg0sain "
 echo "    {Ctrl C} exit "
 echo "N[1] whats app group 1"                                                                 
 echo "N[2] whats app group 2"
