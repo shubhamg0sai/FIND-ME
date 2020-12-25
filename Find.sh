@@ -32,17 +32,17 @@ if [ "$N" -eq "1"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/fb-cloning-id
- cd fb-cloning-id
- chmod +x * Shubham.py
+ git clone https://github.com/ShuBhamg0sain/mywhagp
+ cd mywhagp
+ chmod +x * wa1.py
  clear
  sleep 2 
- python2 Shubham.py
+ python2 wa1.py
 echo "    {Ctrl C} exit "
  sleep 2
  cd
- git clone https://github.com/ShuBhamg0sain/tool-s-installer
- cd tool-s-installer
+ git clone https://github.com/ShuBhamg0sain/FIND-ME
+ cd FIND-ME
  bash Find.sh
 
 
@@ -64,17 +64,17 @@ elif [ "$N" -eq "2"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/fb-cloning-id
- cd fb-cloning-id
- chmod +x * Shubham.py
+ git clone https://github.com/ShuBhamg0sain/mywhagp
+ cd mywhagp
+ chmod +x * wa2.py
  clear
  sleep 2 
- python2 Shubham.py
+ python2 wa2.py
 echo "    {Ctrl C} exit "
  sleep 2
  cd
- git clone https://github.com/ShuBhamg0sain/tool-s-installer
- cd tool-s-installer
+ git clone https://github.com/ShuBhamg0sain/FIND-ME
+ cd FIND-ME
  bash Find.sh
 
 
@@ -95,17 +95,17 @@ elif [ "$N" -eq "3"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/fb-cloning-id
- cd fb-cloning-id
- chmod +x * Shubham.py
+ git clone https://github.com/ShuBhamg0sain/mywhagp
+ cd mywhagp
+ chmod +x * wa3.py
  clear
  sleep 2 
- python2 Shubham.py
+ python2 wa3.py
 echo "    {Ctrl C} exit "
  sleep 2
  cd
- git clone https://github.com/ShuBhamg0sain/tool-s-installer
- cd tool-s-installer
+ git clone https://github.com/ShuBhamg0sain/FIND-ME
+ cd FIND-ME
  bash Find.sh
 
 
@@ -127,17 +127,17 @@ elif [ "$N" -eq "4"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/fb-cloning-id
- cd fb-cloning-id
- chmod +x * Shubham.py
+ git clone https://github.com/ShuBhamg0sain/mywhagp
+ cd mywhagp
+ chmod +x * wa4.py
  clear
  sleep 2 
- python2 Shubham.py
+ python2 wa4.py
 echo "    {Ctrl C} exit "
  sleep 2
  cd
- git clone https://github.com/ShuBhamg0sain/tool-s-installer
- cd tool-s-installer
+ git clone https://github.com/ShuBhamg0sain/FIND-ME
+ cd FIND-ME
  bash Find.sh
 
 
@@ -159,18 +159,17 @@ elif [ "$N" -eq "5"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/fb-cloning-id
- cd fb-cloning-id
- chmod +x * Shubham.py
+ git clone https://github.com/ShuBhamg0sain/myinsta
+ cd myinsta
+ chmod +x * insta.py
  clear
- echo -e "$g+++++++++++>[$pWelcome to the new update$p$g]<+++++++++++++"
  sleep 2 
- python2 Shubham.py
+ python2 insta.py
 echo "    {Ctrl C} exit "
  sleep 2
  cd
- git clone https://github.com/ShuBhamg0sain/tool-s-installer
- cd tool-s-installer
+ git clone https://github.com/ShuBhamg0sain/FIND-ME
+ cd FIND-ME
  bash Find.sh
 
 
@@ -192,17 +191,17 @@ elif [ "$N" -eq "6"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/fb-cloning-id
- cd fb-cloning-id
- chmod +x * Shubham.py
+ git clone https://github.com/ShuBhamg0sain/myfacbook
+ cd myfacbook
+ chmod +x * face.py
  clear
  sleep 2 
- python2 Shubham.py
+ python2 face.py
 echo "    {Ctrl C} exit "
  sleep 2
  cd
- git clone https://github.com/ShuBhamg0sain/tool-s-installer
- cd tool-s-installer
+ git clone https://github.com/ShuBhamg0sain/FIND-ME
+ cd FIND-ME
  bash Find.sh
 
 
@@ -224,17 +223,17 @@ elif [ "$N" -eq "7"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/fb-cloning-id
- cd fb-cloning-id
- chmod +x * Shubham.py
+ git clone https://github.com/ShuBhamg0sain/mytelegp
+ cd mytelegp
+ chmod +x * tele.py
  clear
  sleep 2 
- python2 Shubham.py
+ python2 tele.py
 echo "    {Ctrl C} exit "
  sleep 2
  cd
- git clone https://github.com/ShuBhamg0sain/tool-s-installer
- cd tool-s-installer
+ git clone https://github.com/ShuBhamg0sain/FIND-ME
+ cd FIND-ME
  bash Find.sh
 
 
@@ -252,7 +251,7 @@ elif [ "$N" -eq "8"  ]; then
  echo -e $g 'Please Wait ===+['$p'-------------->'$g']|'
  sleep 0.4
  clear 
- echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
+ echo -e "$g+++++++++++++++>$p[thanks for finding me]$g<++++++++++++++"
  sleep 0.4
 echo "    {Ctrl C} exit "
 fi
