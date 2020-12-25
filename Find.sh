@@ -1,8 +1,6 @@
 g='\033[1;32m'
 p='\033[1;35m'
 clear
-termux-setup-storage
-clear
 echo -e "\033[1;32m"
 echo "    ShuBhamg0sain "
 echo "    {Ctrl C} exit "
